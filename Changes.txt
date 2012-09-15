@@ -1,5 +1,8 @@
 Changes
 =======
 
+0.0.2-dev
+*
+
 0.0.1-dev
 * Setup initial doc files, pom, and empty main class.
