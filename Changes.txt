@@ -2,7 +2,7 @@ Changes
 =======
 
 0.0.2-dev
-*
+* Added console, using jline.
 
 0.0.1-dev
 * Setup initial doc files, pom, and empty main class.
